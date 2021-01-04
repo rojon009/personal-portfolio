@@ -24,7 +24,7 @@ p {
 }
 
 .hero-section {
-  background-image: url("images/top-banner.png");
+  background-image: url("./images/top-banner.png");
   background-repeat: no-repeat;
   background-position: 0 0;
 }
@@ -56,13 +56,13 @@ p {
 }
 
 .dream-section {
-  background-image: url(/images/dream-bg.png);
+  background-image: url("./images/dream-bg.png");
   background-position: right;
   background-repeat: no-repeat;
 }
 
 .experiences {
-  background-image: url(/images/exp-bg.png);
+  background-image: url("./images/exp-bg.png");
   background-position: left;
   background-repeat: no-repeat;
 }
